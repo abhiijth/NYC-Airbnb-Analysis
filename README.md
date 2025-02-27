@@ -64,7 +64,7 @@ Relationship between price, availability, and review activity.
 
 
 🙌 Contributing
-This project was developed by [Your Name]. Contributions and feedback are welcome!
+This project was developed by [abhijith2005iibe@gmail.com]. Contributions and feedback are welcome!
 
 📧 Contact
 This project is open-source and available for educational and research purposes.
